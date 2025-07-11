@@ -1,7 +1,8 @@
 # 🩸 Breast Cancer Wisconsin Classification Project
 
 ## 📊 Project Objective
-Accurately classify tumors as **malignant** or **benign** using the Breast Cancer Wisconsin dataset. The goal is to maximize recall for malignant cases (minimize false negatives) while ensuring the model remains explainable, robust, and production-ready.
+Accurately classify tumors as **malignant** or **benign** using the Breast Cancer Wisconsin dataset. 
+The goal is to maximize recall for malignant cases (minimize false negatives) while ensuring the model remains explainable, robust, and production-ready.
 
 ---
 
@@ -99,4 +100,4 @@ Included:
 ---
 
 ## 🙌 Author
-*Built with love and SHAP values by [Your Name].*
+*Built with love and SHAP values by Pranjal.*
